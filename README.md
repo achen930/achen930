@@ -1,7 +1,6 @@
-# Annabelle Chen
+# Hi, I'm Annabelle 👋
 
-## 👩🏻‍💻 About Me
-
+I'm a passionate full-stack developer with a keen interest in front-end development, crafting intuitive and engaging digital experiences. With a BA in Psychology and a Full-Stack Development diploma, I blend user empathy with technical expertise to build seamless, user-centric applications that are both functional and visually compelling.
 
 ## 💻 Technologies
 
